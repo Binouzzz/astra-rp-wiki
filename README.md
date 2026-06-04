@@ -2,7 +2,7 @@
 description: >-
   Bienvenue sur le wiki officiel d'Astra RP — toutes les informations,
   le règlement complet et les guides pour bien démarrer ton aventure.
-cover: .gitbook/assets/cover-fivem.png
+cover: .gitbook/assets/cover-home.png
 coverY: 0
 layout:
   cover:
@@ -22,7 +22,7 @@ layout:
 
 # 🌌 Bienvenue sur Astra RP
 
-<figure><img src=".gitbook/assets/logo-full.png" alt="Astra RP" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/banner-home.png" alt="Astra RP — Rejoint l'aventure !"><figcaption></figcaption></figure>
 
 ## Une nouvelle galaxie de Roleplay
 
