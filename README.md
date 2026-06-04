@@ -60,7 +60,7 @@ Tu débarques sur le serveur ? Voici par où commencer :
 {% hint style="info" %}
 Rejoins-nous et reste informé des dernières nouveautés !
 
-* **Discord** : `discord.gg/astrarp`
+* **Discord** : [discord.gg/astrafa](https://discord.gg/astrafa)
 * **Boutique** : `astra-rp.tebex.io`
 * **Connexion FiveM** : recherche **Astra RP** dans ta liste de serveurs.
 {% endhint %}
