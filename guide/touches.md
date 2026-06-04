@@ -46,11 +46,11 @@ Ces touches sont les **valeurs par défaut**. Certaines peuvent varier selon les
 | Touche | Action |
 | ------ | ------ |
 | **F** | Entrer / sortir du véhicule |
-| **K** | Moteur ON/OFF |
-| **L** | Phares |
-| **H** | Klaxon |
+| **E** | Klaxon |
+| **H** | Phares |
+| **K** | Accéder au coffre |
 | **Maj gauche** | Frein à main |
-| **Roulette souris** | Changer de vitesse / radio |
+| **Roulette souris** | Radio |
 
 ***
 
@@ -60,8 +60,7 @@ Ces touches sont les **valeurs par défaut**. Certaines peuvent varier selon les
 | ------ | ------ |
 | **Tab** | Sélection d'arme |
 | **Clic gauche** | Tirer |
-| **B** | Holster / dégainer |
-| **Espace** | Se mettre à couvert |
+| **A** | Se mettre à couvert |
 
 {% hint style="warning" %}
 L'usage des armes est **strictement encadré** par les niveaux [DEFCON](../reglement/services-publics/defcon.md) et les [Zones Gunfight](../reglement/general/zone-gunfight.md). Ne dégaine jamais sans contexte RP.
