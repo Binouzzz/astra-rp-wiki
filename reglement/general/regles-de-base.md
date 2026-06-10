@@ -1,5 +1,5 @@
 ---
-description: Les règles fondamentales applicables à tous les joueurs d'Astra RP.
+description: Les règles fondamentales applicables à tous les joueurs d'Horizon RP.
 ---
 
 # ⚖️ Règles de base

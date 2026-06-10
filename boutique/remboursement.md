@@ -1,12 +1,12 @@
 ---
-description: La politique de remboursement de la boutique Astra RP.
+description: La politique de remboursement de la boutique Horizon RP.
 ---
 
 # ↩️ Remboursement
 
 <figure><img src="../.gitbook/assets/banner-remboursement.png" alt="Remboursement"><figcaption></figcaption></figure>
 
-Cette page détaille la **politique de remboursement** d'Astra RP. Lis-la attentivement **avant tout achat** : valider une commande vaut acceptation de ces conditions.
+Cette page détaille la **politique de remboursement** d'Horizon RP. Lis-la attentivement **avant tout achat** : valider une commande vaut acceptation de ces conditions.
 
 {% hint style="danger" %}
 **Les achats sur la boutique sont des dons de soutien et sont, par principe, NON REMBOURSABLES.** Les biens livrés sont des contenus virtuels consommés immédiatement.

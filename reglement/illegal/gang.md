@@ -6,7 +6,7 @@ description: Les règles spécifiques aux gangs de rue.
 
 <figure><img src="../../.gitbook/assets/banner-gang.png" alt="Gang"><figcaption></figcaption></figure>
 
-Les **gangs** dominent la rue : territoire, trafic, influence et rivalités. C'est le cœur battant de la scène illégale d'Astra RP.
+Les **gangs** dominent la rue : territoire, trafic, influence et rivalités. C'est le cœur battant de la scène illégale d'Horizon RP.
 
 ***
 

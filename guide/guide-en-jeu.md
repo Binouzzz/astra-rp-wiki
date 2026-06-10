@@ -1,5 +1,5 @@
 ---
-description: Les bases pour bien jouer une fois connecté sur Astra RP.
+description: Les bases pour bien jouer une fois connecté sur Horizon RP.
 ---
 
 # 🕹️ Guide en jeu

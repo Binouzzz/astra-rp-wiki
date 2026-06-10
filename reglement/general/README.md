@@ -1,6 +1,6 @@
 ---
 description: >-
-  Le règlement général d'Astra RP — les règles fondamentales que tout joueur
+  Le règlement général d'Horizon RP — les règles fondamentales que tout joueur
   doit connaître et respecter.
 ---
 
@@ -8,10 +8,10 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/banner-reglement-general.png" alt="Règlement Général"><figcaption></figcaption></figure>
 
-Bienvenue dans le **règlement officiel d'Astra RP**. Ce document constitue le **contrat moral** entre toi et la communauté. Il garantit un jeu **sain, équitable et immersif** pour tous.
+Bienvenue dans le **règlement officiel d'Horizon RP**. Ce document constitue le **contrat moral** entre toi et la communauté. Il garantit un jeu **sain, équitable et immersif** pour tous.
 
 {% hint style="danger" %}
-**En te connectant sur Astra RP, tu reconnais avoir lu et accepté l'intégralité de ce règlement.** Nul n'est censé ignorer les règles. Le staff applique ces règles sans favoritisme.
+**En te connectant sur Horizon RP, tu reconnais avoir lu et accepté l'intégralité de ce règlement.** Nul n'est censé ignorer les règles. Le staff applique ces règles sans favoritisme.
 {% endhint %}
 
 ***

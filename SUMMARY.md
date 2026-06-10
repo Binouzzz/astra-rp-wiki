@@ -1,10 +1,10 @@
 # Table of contents
 
-* [🌌 Bienvenue sur Astra RP](README.md)
+* [🌅 Bienvenue sur Horizon RP](README.md)
 
 ## 📖 Informations
 
-* [✦ Le Lore d'Astra](informations/lore.md)
+* [🌅 Le Lore d'Horizon](informations/lore.md)
 * [📚 Lexique RP](informations/lexique.md)
 
 ## 🎮 Guide du joueur

@@ -1,5 +1,5 @@
 ---
-description: Résoudre les problèmes techniques les plus courants sur Astra RP.
+description: Résoudre les problèmes techniques les plus courants sur Horizon RP.
 ---
 
 # 🔧 Résolution de bugs

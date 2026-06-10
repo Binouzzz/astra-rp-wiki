@@ -1,5 +1,5 @@
 ---
-description: Le règlement des institutions et services publics d'Astra RP.
+description: Le règlement des institutions et services publics d'Horizon RP.
 ---
 
 # 🏛️ Règlement des Services Publics

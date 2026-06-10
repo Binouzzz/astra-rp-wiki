@@ -1,12 +1,12 @@
 ---
-description: Comment obtenir de l'aide sur Astra RP.
+description: Comment obtenir de l'aide sur Horizon RP.
 ---
 
 # 🎧 Support
 
 <figure><img src="../.gitbook/assets/banner-support.png" alt="Support"><figcaption></figcaption></figure>
 
-Une question, un problème, un bug, un achat qui coince ? Le **support** d'Astra RP est là pour t'aider. Voici comment l'utiliser efficacement.
+Une question, un problème, un bug, un achat qui coince ? Le **support** d'Horizon RP est là pour t'aider. Voici comment l'utiliser efficacement.
 
 ***
 
@@ -14,7 +14,7 @@ Une question, un problème, un bug, un achat qui coince ? Le **support** d'Astra
 
 Le support fonctionne par **tickets** sur le **Discord**. C'est le moyen le plus rapide et le plus suivi d'obtenir de l'aide.
 
-1. Rejoins le **Discord** d'Astra RP.
+1. Rejoins le **Discord** d'Horizon RP.
 2. Va dans le salon **#support** ou **#ticket**.
 3. Clique sur **« Ouvrir un ticket »**.
 4. **Choisis la catégorie** correspondant à ta demande.

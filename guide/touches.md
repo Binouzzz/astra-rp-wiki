@@ -1,12 +1,12 @@
 ---
-description: La liste complète des raccourcis clavier sur Astra RP.
+description: La liste complète des raccourcis clavier sur Horizon RP.
 ---
 
 # ⌨️ Touches en jeu
 
 <figure><img src="../.gitbook/assets/banner-touches.png" alt="Touches en jeu"><figcaption></figcaption></figure>
 
-Voici les **raccourcis clavier** par défaut sur Astra RP. Tu peux tous les personnaliser : voir [Modifier ses touches](modifier-touches.md).
+Voici les **raccourcis clavier** par défaut sur Horizon RP. Tu peux tous les personnaliser : voir [Modifier ses touches](modifier-touches.md).
 
 {% hint style="info" %}
 Ces touches sont les **valeurs par défaut**. Certaines peuvent varier selon les mises à jour du serveur — la liste en jeu fait toujours foi.

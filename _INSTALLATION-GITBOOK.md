@@ -1,4 +1,4 @@
-# 📦 Guide d'installation — Wiki Astra RP sur GitBook
+# 📦 Guide d'installation — Wiki Horizon RP sur GitBook
 
 Ce dossier est un **wiki GitBook complet, prêt à publier**. Voici comment le mettre en ligne. Tu as **deux méthodes** : Git Sync (recommandé, pro) ou import manuel.
 
@@ -22,7 +22,7 @@ Depuis ce dossier (`astra-rp-wiki`), en ligne de commande :
 ```bash
 git init
 git add .
-git commit -m "Wiki Astra RP - version initiale"
+git commit -m "Wiki Horizon RP - version initiale"
 git branch -M main
 git remote add origin https://github.com/TON-PSEUDO/astra-rp-wiki.git
 git push -u origin main
@@ -91,11 +91,11 @@ Tout est éditable ! Pense notamment à remplacer les **valeurs à compléter** 
 
 ## 🎨 Conseils GitBook pour un rendu pro
 
-- Active un **thème sombre** dans GitBook (Customization) pour coller à l'identité rouge/noir d'Astra.
+- Active un **thème sombre** dans GitBook (Customization) pour coller à l'identité bleu cyan / noir d'Horizon.
 - Mets le **logo** (`.gitbook/assets/logo.png`) en icône de l'espace (Settings → Customization).
-- Définis une **couleur d'accent rouge** pour rappeler tes bannières.
+- Définis une **couleur d'accent bleu cyan** pour rappeler tes bannières.
 - Active la **recherche** et le **sommaire de page** (déjà prévus dans la config).
 
 ---
 
-Bon courage et bon lancement pour **Astra RP** ! 🌌
+Bon courage et bon lancement pour **Horizon RP** ! 🌅

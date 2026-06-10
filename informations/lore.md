@@ -1,17 +1,17 @@
 ---
-description: L'histoire et l'univers du serveur Astra RP.
+description: L'histoire et l'univers du serveur Horizon RP.
 ---
 
-# ✦ Le Lore d'Astra
+# 🌅 Le Lore d'Horizon
 
-<figure><img src="../.gitbook/assets/banner-lore.png" alt="Lore Astra"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/banner-lore.png" alt="Lore Horizon"><figcaption></figcaption></figure>
 
 ## Bienvenue à San Andreas, nouvelle ère
 
-**Astra RP** est un serveur **GTA V RP** sérieux et immersif, pensé pour offrir un Roleplay riche, crédible et accessible à tous. Ici, ton personnage n'est pas un simple avatar : c'est une **vie entière** que tu écris au fil de tes choix, de tes rencontres et de tes ambitions.
+**Horizon RP** est un serveur **GTA V RP** sérieux et immersif, pensé pour offrir un Roleplay riche, crédible et accessible à tous. Ici, ton personnage n'est pas un simple avatar : c'est une **vie entière** que tu écris au fil de tes choix, de tes rencontres et de tes ambitions.
 
 {% hint style="info" %}
-**Astra** signifie « les étoiles » en latin. Notre vision : te donner un terrain de jeu où **chaque joueur peut briller**, qu'il soit citoyen, policier, médecin, entrepreneur ou hors-la-loi.
+**Horizon**, c'est la ligne où la terre rencontre le ciel : le symbole des **nouveaux départs** et de l'**infini des possibles**. Notre vision : te donner un terrain de jeu où **chaque joueur peut tracer sa route**, qu'il soit citoyen, policier, médecin, entrepreneur ou hors-la-loi.
 {% endhint %}
 
 ***
@@ -29,7 +29,7 @@ San Andreas est une terre de contrastes. Entre les gratte-ciels de Los Santos, l
 
 ## 🎯 Notre philosophie
 
-Astra RP repose sur **trois piliers** :
+Horizon RP repose sur **trois piliers** :
 
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>🎭 Immersion</strong></td><td>Le Roleplay prime sur tout. On joue un personnage, pas un score.</td></tr><tr><td><strong>⚖️ Équité</strong></td><td>Les mêmes règles pour tous. Le staff veille à un jeu sain.</td></tr><tr><td><strong>🌟 Qualité</strong></td><td>Scénarios construits, respect mutuel et histoires mémorables.</td></tr></tbody></table>
 
@@ -37,8 +37,8 @@ Astra RP repose sur **trois piliers** :
 
 ## 📜 Ton histoire commence ici
 
-Que tu rêves de devenir le **chef de la police**, un **médecin héroïque**, un **patron d'entreprise prospère** ou le **parrain le plus craint de Los Santos**, tout est possible sur Astra.
+Que tu rêves de devenir le **chef de la police**, un **médecin héroïque**, un **patron d'entreprise prospère** ou le **parrain le plus craint de Los Santos**, tout est possible sur Horizon.
 
 {% hint style="success" %}
-**Prêt à embarquer ?** Lis le [règlement](../reglement/general/README.md), suis le [guide de connexion](../guide/connexion.md), et viens écrire ta légende parmi les étoiles. ✦
+**Prêt à embarquer ?** Lis le [règlement](../reglement/general/README.md), suis le [guide de connexion](../guide/connexion.md), et viens écrire ta légende, aussi loin que porte l'horizon. 🌅
 {% endhint %}

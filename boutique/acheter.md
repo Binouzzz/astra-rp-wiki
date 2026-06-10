@@ -6,7 +6,7 @@ description: Le guide pas à pas pour effectuer un achat sur la boutique.
 
 <figure><img src="../.gitbook/assets/banner-acheter.png" alt="Acheter"><figcaption></figcaption></figure>
 
-Acheter sur la boutique d'Astra RP est **simple, rapide et sécurisé**. Suis ces étapes.
+Acheter sur la boutique d'Horizon RP est **simple, rapide et sécurisé**. Suis ces étapes.
 
 ***
 

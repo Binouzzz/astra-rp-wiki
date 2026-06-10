@@ -63,4 +63,4 @@ En **zone dangereuse**, le SAMS peut demander une **escorte SASP** avant d'inter
 * Le SAMS déclare alors une **prise en charge impossible** selon les règles de PK/CK.
 * Le respect du **NLR** s'applique à la victime après réanimation.
 
-> Le SAMS est le pilier humanitaire d'Astra. Pour rejoindre l'équipe, postule sur le **Discord** et suis la **formation médicale**.
+> Le SAMS est le pilier humanitaire d'Horizon. Pour rejoindre l'équipe, postule sur le **Discord** et suis la **formation médicale**.

@@ -1,12 +1,12 @@
 ---
-description: Comment rejoindre Astra RP en quelques minutes.
+description: Comment rejoindre Horizon RP en quelques minutes.
 ---
 
 # 🔌 Connexion au serveur
 
 <figure><img src="../.gitbook/assets/banner-connexion.png" alt="Connexion"><figcaption></figcaption></figure>
 
-Suis ce guide pas à pas pour rejoindre **Astra RP**. Si tu n'as jamais joué sur FiveM, pas d'inquiétude : c'est simple et gratuit.
+Suis ce guide pas à pas pour rejoindre **Horizon RP**. Si tu n'as jamais joué sur FiveM, pas d'inquiétude : c'est simple et gratuit.
 
 ***
 
@@ -30,13 +30,13 @@ Tu dois **obligatoirement** posséder une copie **légale de GTA V** (Steam, Epi
 
 ***
 
-## 🔎 Étape 2 — Rejoindre Astra RP
+## 🔎 Étape 2 — Rejoindre Horizon RP
 
 {% tabs %}
 {% tab title="Via la recherche" %}
 1. Ouvre **FiveM**.
 2. Clique sur l'onglet **Play** (icône de manette).
-3. Dans la barre de recherche, tape **`Astra RP`**.
+3. Dans la barre de recherche, tape **`Horizon RP`**.
 4. Clique sur le serveur, puis sur **Connect**.
 {% endtab %}
 
@@ -66,8 +66,8 @@ Ton jeu reste bloqué au chargement ? Consulte la page [Résolution de bugs](../
 1. Une fois connecté, choisis ton **nom et prénom RP** (réalistes, pas de pseudo).
 2. Personnalise ton apparence dans le **menu de création**.
 3. Suis le tutoriel d'introduction.
-4. **Bienvenue à Los Santos !** 🌌
+4. **Bienvenue à Los Santos !** 🌅
 
 {% hint style="success" %}
-Avant de te lancer, assure-toi d'avoir lu le [Règlement Général](../reglement/general/README.md). Bon jeu sur Astra RP !
+Avant de te lancer, assure-toi d'avoir lu le [Règlement Général](../reglement/general/README.md). Bon jeu sur Horizon RP !
 {% endhint %}

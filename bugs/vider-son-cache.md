@@ -61,7 +61,7 @@ Pour les bugs de **textures et de streaming** :
 
 * 🔄 **Relance** FiveM.
 * ⏳ Le **premier chargement** sera plus long (re-téléchargement) : c'est normal.
-* 🎮 Reconnecte-toi à **Astra RP**.
+* 🎮 Reconnecte-toi à **Horizon RP**.
 
 {% hint style="success" %}
 Toujours un souci ? Tente la [vérification des fichiers GTA V](verifier-fichiers.md), puis ouvre un ticket sur le [Support](../support/support.md) si nécessaire.

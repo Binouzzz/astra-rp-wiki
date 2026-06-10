@@ -51,7 +51,7 @@ Cette opération **scanne** tes fichiers GTA V et **re-télécharge** uniquement
 * Combine avec [Vider son cache](vider-son-cache.md) pour un nettoyage complet.
 
 {% hint style="warning" %}
-**Mods sur GTA V solo ?** Ils peuvent corrompre tes fichiers et empêcher FiveM de fonctionner. Pour jouer sur Astra RP, GTA V doit être **propre, sans mods**.
+**Mods sur GTA V solo ?** Ils peuvent corrompre tes fichiers et empêcher FiveM de fonctionner. Pour jouer sur Horizon RP, GTA V doit être **propre, sans mods**.
 {% endhint %}
 
 ***

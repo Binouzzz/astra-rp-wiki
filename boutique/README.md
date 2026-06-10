@@ -1,15 +1,15 @@
 ---
-description: La boutique officielle d'Astra RP — soutiens le serveur et profite d'avantages.
+description: La boutique officielle d'Horizon RP — soutiens le serveur et profite d'avantages.
 ---
 
 # 🛍️ La Boutique
 
 <figure><img src="../.gitbook/assets/banner-boutique.png" alt="Boutique"><figcaption></figcaption></figure>
 
-La **boutique** te permet de **soutenir Astra RP** tout en profitant d'avantages exclusifs. Chaque contribution aide à payer l'hébergement, le développement et l'animation du serveur. **Merci à toi !** ❤️
+La **boutique** te permet de **soutenir Horizon RP** tout en profitant d'avantages exclusifs. Chaque contribution aide à payer l'hébergement, le développement et l'animation du serveur. **Merci à toi !** ❤️
 
 {% hint style="success" %}
-Tout achat est un **coup de pouce direct** au serveur. Sans la communauté, Astra RP n'existerait pas.
+Tout achat est un **coup de pouce direct** au serveur. Sans la communauté, Horizon RP n'existerait pas.
 {% endhint %}
 
 ***
@@ -23,7 +23,7 @@ Tout achat est un **coup de pouce direct** au serveur. Sans la communauté, Astr
 ## ⚖️ Règles importantes
 
 {% hint style="warning" %}
-**Les avantages VIP ne donnent JAMAIS d'avantage abusif en RP.** Astra RP n'est pas un serveur « pay-to-win ». Les VIP offrent du **confort** et des **bonus cosmétiques**, jamais une supériorité déloyale.
+**Les avantages VIP ne donnent JAMAIS d'avantage abusif en RP.** Horizon RP n'est pas un serveur « pay-to-win ». Les VIP offrent du **confort** et des **bonus cosmétiques**, jamais une supériorité déloyale.
 {% endhint %}
 
 * 🛒 Les achats se font **uniquement** via la boutique officielle.

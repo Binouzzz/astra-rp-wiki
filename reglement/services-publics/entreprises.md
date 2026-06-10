@@ -6,7 +6,7 @@ description: Les règles de création et de gestion des entreprises joueurs.
 
 <figure><img src="../../.gitbook/assets/banner-entreprises.png" alt="Entreprises"><figcaption></figcaption></figure>
 
-Les **entreprises** font vivre l'économie d'Astra RP. Mécaniciens, restaurateurs, concessionnaires, médias… elles sont **gérées par les joueurs** et offrent emplois et services à la ville.
+Les **entreprises** font vivre l'économie d'Horizon RP. Mécaniciens, restaurateurs, concessionnaires, médias… elles sont **gérées par les joueurs** et offrent emplois et services à la ville.
 
 ***
 
