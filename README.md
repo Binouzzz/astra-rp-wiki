@@ -60,8 +60,8 @@ Tu débarques sur le serveur ? Voici par où commencer :
 {% hint style="info" %}
 Rejoins-nous et reste informé des dernières nouveautés !
 
-* **Discord** : [discord.gg/astrafa](https://discord.gg/astrafa)
-* **Boutique** : `astra-rp.tebex.io`
+* **Discord** : [discord.gg/horizonrp](https://discord.gg/horizonrp)
+* **Boutique** : [tebex.io/horizonrp](https://tebex.io/horizonrp)
 * **Connexion FiveM** : recherche **Horizon RP** dans ta liste de serveurs.
 {% endhint %}
 

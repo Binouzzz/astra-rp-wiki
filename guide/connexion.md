@@ -41,7 +41,7 @@ Tu dois **obligatoirement** posséder une copie **légale de GTA V** (Steam, Epi
 {% endtab %}
 
 {% tab title="Via le lien direct" %}
-1. Rejoins notre **Discord** : [discord.gg/astrafa](https://discord.gg/astrafa).
+1. Rejoins notre **Discord** : [discord.gg/horizonrp](https://discord.gg/horizonrp).
 2. Va dans le salon **#connexion**.
 3. Clique sur le lien de connexion `cfx.re/join/xxxxxx`.
 4. FiveM s'ouvre automatiquement et te connecte.

@@ -35,7 +35,7 @@ Tout achat est un **coup de pouce direct** au serveur. Sans la communauté, Hori
 
 ## 🔗 Accéder à la boutique
 
-> 🛒 **Boutique officielle** : `astra-rp.tebex.io`
+> 🛒 **Boutique officielle** : [tebex.io/horizonrp](https://tebex.io/horizonrp)
 >
 > Le lien exact est épinglé sur le **Discord** dans le salon **#boutique**.
 
