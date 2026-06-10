@@ -22,7 +22,7 @@ layout:
 
 # 🌅 Bienvenue sur Horizon RP
 
-<figure><img src=".gitbook/assets/banner-home.png" alt="Horizon RP — Rejoint l'aventure !"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/logo.png" alt="Horizon RP" width="300"><figcaption></figcaption></figure>
 
 ## Un nouvel horizon de Roleplay
 
