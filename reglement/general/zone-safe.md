@@ -18,7 +18,7 @@ Une **Zone Safe** est un lieu protégé où **aucune action hostile** n'est auto
 * ❌ Initier une course-poursuite ou un combat.
 * ❌ Utiliser ces zones comme **refuge** pour échapper à un RP en cours.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **Utiliser une Zone Safe comme bouclier** (provoquer puis se réfugier pour éviter les représailles) est un abus sanctionné au même titre qu'une agression.
 {% endhint %}
 

@@ -10,7 +10,7 @@ description: >-
 
 Bienvenue dans le **règlement officiel d'Horizon RP**. Ce document constitue le **contrat moral** entre toi et la communauté. Il garantit un jeu **sain, équitable et immersif** pour tous.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **En te connectant sur Horizon RP, tu reconnais avoir lu et accepté l'intégralité de ce règlement.** Nul n'est censé ignorer les règles. Le staff applique ces règles sans favoritisme.
 {% endhint %}
 

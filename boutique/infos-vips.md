@@ -8,7 +8,7 @@ description: Les différents grades VIP et leurs avantages.
 
 Les grades **VIP** te récompensent pour ton soutien avec des **avantages de confort** et des **bonus cosmétiques**. Trois formules sont disponibles, du plus accessible au plus complet.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **Horizon RP n'est PAS pay-to-win.** Les VIP n'offrent **aucun avantage abusif** en RP : pas d'arme exclusive, pas d'argent qui casse l'économie. Uniquement du **confort** et de l'**esthétique**.
 {% endhint %}
 

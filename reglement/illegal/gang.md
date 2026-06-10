@@ -60,7 +60,7 @@ Un bon gang se **fait connaître par son RP** : tags, intimidation, business, al
 * ❌ Guerre sans déclaration ni scénario.
 * ❌ Loot total systématique des victimes.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Un gang qui ne fait que du **frag sans RP** sera rappelé à l'ordre, puis **dissous** en cas de récidive.
 {% endhint %}
 

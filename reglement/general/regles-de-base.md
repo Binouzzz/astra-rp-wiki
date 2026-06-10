@@ -17,7 +17,7 @@ Ces règles s'appliquent à **absolument tout le monde**, sans exception. Les m�
 * Aucune **menace réelle** envers un joueur ou le staff.
 * Le **partage de données personnelles** (doxxing) est strictement interdit et peut entraîner des poursuites.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 La toxicité et les propos discriminatoires entraînent un **bannissement immédiat et définitif**, sans avertissement.
 {% endhint %}
 
@@ -79,7 +79,7 @@ Un braquage ou une prise d'otage doit toujours **laisser une chance de RP** à l
 * Profiter d'un bug (argent, duplication, map) = **sanction lourde**.
 * Voir [Résolution de bugs](../../bugs/README.md) pour les soucis techniques.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **L'abus de bug pour s'enrichir ou prendre l'avantage** est considéré comme de la triche et entraîne un bannissement.
 {% endhint %}
 

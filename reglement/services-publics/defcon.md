@@ -67,7 +67,7 @@ Le niveau DEFCON est fixé par le **staff / la direction des services** selon l'
 * 🚫 On ne « monte » pas le DEFCON soi-même : il est **décidé par le staff**.
 * 🎭 Quel que soit le niveau, le **RP et le FearRP** restent obligatoires.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Lancer un braquage **sans respecter l'effectif policier requis** ou le DEFCON entraîne l'**annulation du butin** et une **sanction**.
 {% endhint %}
 

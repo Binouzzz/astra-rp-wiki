@@ -52,6 +52,6 @@ Ces métiers se rejoignent via des **candidatures officielles** (Discord) et des
 
 Le crime peut rapporter gros… mais il comporte des risques et des **règles strictes**. Avant de te lancer, lis impérativement le [Règlement Illégal](../reglement/illegal/README.md).
 
-{% hint style="danger" %}
+{% hint style="info" %}
 L'argent ne doit **jamais** primer sur le Roleplay (**RvA interdit**). Que tu sois livreur ou braqueur, c'est l'**histoire** qui compte avant tout.
 {% endhint %}

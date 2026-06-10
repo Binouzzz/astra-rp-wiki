@@ -32,7 +32,7 @@ Le rôle du staff est de **protéger l'expérience de tous**, pas de punir pour 
 | 3️⃣ | **Ban temporaire** | RDM/VDM, MetaGaming, fautes répétées. |
 | 4️⃣ | **Ban définitif** | Triche, propos haineux, doxxing, abus de bug grave. |
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Certaines fautes entraînent un **ban définitif immédiat**, sans avertissement préalable : **triche, racisme/discrimination, harcèlement, doxxing, menaces réelles**.
 {% endhint %}
 

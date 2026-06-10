@@ -45,7 +45,7 @@ Le **/me** décrit **ce que TON personnage fait**. Le **/do** sert à décrire u
 2. **Reste en RP** : décris ta douleur, ne quitte pas la scène (interdiction de **CombatLog**).
 3. En cas de **PK**, applique la règle du **New Life Rule** : tu oublies les circonstances de ta mort.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Se déconnecter pendant une scène (combat, soin, course-poursuite) est un **CombatLog**, sévèrement sanctionné. Voir le [Règlement Général](../reglement/general/regles-de-base.md).
 {% endhint %}
 

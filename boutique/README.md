@@ -39,6 +39,6 @@ Tout achat est un **coup de pouce direct** au serveur. Sans la communauté, Hori
 >
 > Le lien exact est épinglé sur le **Discord** dans le salon **#boutique**.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 N'achète **jamais** via un lien envoyé en message privé. Utilise uniquement le lien **officiel** épinglé sur le Discord pour éviter les arnaques.
 {% endhint %}

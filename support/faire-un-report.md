@@ -8,7 +8,7 @@ description: Comment signaler correctement un joueur ou une infraction.
 
 Tu as été victime ou témoin d'une infraction au règlement (RDM, triche, MetaGaming…) ? Le **report** est la bonne démarche. Voici comment le faire **efficacement**.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **Ne te fais jamais justice toi-même** et ne casse pas ton propre RP pour « régler » un litige. Note les infos, continue à jouer si possible, et fais ton report **après** la scène.
 {% endhint %}
 

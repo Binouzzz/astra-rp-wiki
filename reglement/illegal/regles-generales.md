@@ -28,7 +28,7 @@ Ces règles s'appliquent à **tout joueur menant une activité illégale**, qu'i
 | **Renforts** | Seuls les membres **réellement impliqués** RP rejoignent un conflit. |
 | **NLR** | Pas de retour sur zone après un PK. |
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Faire venir des renforts via Discord/HRP pour un conflit qu'ils n'ont pas vécu en RP est du **MetaGaming**, lourdement sanctionné.
 {% endhint %}
 

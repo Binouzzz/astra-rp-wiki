@@ -8,7 +8,7 @@ description: La politique de remboursement de la boutique Horizon RP.
 
 Cette page détaille la **politique de remboursement** d'Horizon RP. Lis-la attentivement **avant tout achat** : valider une commande vaut acceptation de ces conditions.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **Les achats sur la boutique sont des dons de soutien et sont, par principe, NON REMBOURSABLES.** Les biens livrés sont des contenus virtuels consommés immédiatement.
 {% endhint %}
 
@@ -49,7 +49,7 @@ Dans ces cas, ouvre un **ticket** avec ta **preuve d'achat** (reçu Tebex, numé
 
 ## ⚖️ Litiges & chargebacks
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Lancer un **litige/chargeback** auprès de ta banque ou PayPal **sans passer par le support** entraîne un **bannissement définitif** du serveur et la perte de tous tes avantages. Privilégie toujours le **dialogue via ticket**.
 {% endhint %}
 

@@ -34,7 +34,7 @@ Intégrer un service public, c'est endosser une **responsabilité**. Le public a
 4. 🤝 **Respect du citoyen** — même un criminel a des droits (soins, procédure, avocat).
 5. 📵 **Pas de MetaGaming** — les infos de service ne sortent pas du cadre RP.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Un agent qui abuse de son pouvoir (violences gratuites, arrestations sans motif, **CodeRP** non respecté) s'expose à des **sanctions RP ET administratives**.
 {% endhint %}
 

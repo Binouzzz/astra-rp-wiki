@@ -8,7 +8,7 @@ description: Le règlement encadrant les activités illégales et les groupes cr
 
 Le crime fait partie intégrante de l'univers d'Horizon RP. Mais une scène illégale crédible repose sur des **règles strictes** : sans cadre, le RP criminel devient du simple « tir au pigeon ». Lis attentivement cette section avant toute activité illégale.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Le but de l'illégal n'est **pas de farmer des kills ou de l'argent**, mais de créer des **histoires** : rivalités, trafics, ascensions, trahisons. Le **RvA est strictement interdit**.
 {% endhint %}
 

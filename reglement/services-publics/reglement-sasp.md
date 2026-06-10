@@ -54,7 +54,7 @@ L'armement dépend du **grade** et du niveau [DEFCON](defcon.md) :
 | Intervention modérée | Arme de poing + sommations |
 | Situation critique (DEFCON élevé) | Armement lourd sur autorisation hiérarchique |
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Le **port d'armes lourd** sans contexte ou sans le DEFCON adéquat est une faute grave.
 {% endhint %}
 

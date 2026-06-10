@@ -28,7 +28,7 @@ layout:
 
 Bienvenue sur le **wiki officiel d'Horizon RP**, ton serveur **GTA V RP** sur FiveM. Tu trouveras ici **absolument tout** ce dont tu as besoin : le règlement complet, les guides de connexion, les informations sur les métiers, les groupes, la boutique et bien plus encore.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **La lecture du règlement est OBLIGATOIRE.** En te connectant sur Horizon RP, tu acceptes l'intégralité des règles présentes sur ce wiki. L'excuse « je ne savais pas » n'est jamais valable.
 {% endhint %}
 
