@@ -2,7 +2,7 @@
 description: Résoudre les problèmes techniques les plus courants sur Horizon RP.
 ---
 
-# 🔧 Résolution de bugs
+# 🐛 Résolution de bugs
 
 <figure><img src="../.gitbook/assets/banner-resolution-bugs.png" alt="Résolution de bugs"><figcaption></figcaption></figure>
 

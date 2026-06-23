@@ -4,7 +4,7 @@ description: Comment signaler correctement un joueur ou une infraction.
 
 # 🚩 Faire un report
 
-<figure><img src="../.gitbook/assets/banner-faire-report.png" alt="Faire un report"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/banner-support.png" alt="Faire un report"><figcaption></figcaption></figure>
 
 Tu as été victime ou témoin d'une infraction au règlement (RDM, triche, MetaGaming…) ? Le **report** est la bonne démarche. Voici comment le faire **efficacement**.
 
@@ -42,12 +42,12 @@ Pense à utiliser un **logiciel d'enregistrement** (ShadowPlay, Medal, OBS…). 
 
 ## ✅ Le bon report en 4 points
 
-| À faire | À éviter |
-| ------- | -------- |
-| ✔️ Joindre des preuves | ❌ Reporter « de mémoire » sans preuve |
-| ✔️ Rester factuel | ❌ Insulter ou exagérer |
-| ✔️ Un ticket par affaire | ❌ Spammer plusieurs tickets |
-| ✔️ Laisser enquêter | ❌ Harceler le staff en MP |
+| À faire                  | À éviter                              |
+| ------------------------ | ------------------------------------- |
+| ✔️ Joindre des preuves   | ❌ Reporter « de mémoire » sans preuve |
+| ✔️ Rester factuel        | ❌ Insulter ou exagérer                |
+| ✔️ Un ticket par affaire | ❌ Spammer plusieurs tickets           |
+| ✔️ Laisser enquêter      | ❌ Harceler le staff en MP             |
 
 ***
 

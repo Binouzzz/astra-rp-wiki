@@ -4,7 +4,7 @@ description: Les bases pour bien jouer une fois connecté sur Horizon RP.
 
 # 🕹️ Guide en jeu
 
-<figure><img src="../.gitbook/assets/banner-guide-en-jeu.png" alt="Guide en jeu"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/banner-connexion.png" alt="Guide en jeu"><figcaption></figcaption></figure>
 
 Tu es connecté et ton personnage est créé ? Parfait. Voici l'essentiel pour **bien démarrer ta vie à Los Santos**.
 
@@ -53,6 +53,6 @@ Se déconnecter pendant une scène (combat, soin, course-poursuite) est un **Com
 
 ## 🆘 Besoin d'aide ?
 
-* Un bug ? → [Résolution de bugs](../bugs/README.md)
+* Un bug ? → [Résolution de bugs](../bugs/)
 * Un souci avec un joueur ? → [Faire un report](../support/faire-un-report.md)
 * Une question ? → Salon d'aide sur le **Discord**.

@@ -4,7 +4,7 @@ description: L'histoire et l'univers du serveur Horizon RP.
 
 # 🌅 Le Lore d'Horizon
 
-<figure><img src="../.gitbook/assets/banner-lore.png" alt="Lore Horizon"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-06-23 143652.jpg" alt="Lore Horizon"><figcaption></figcaption></figure>
 
 ## Bienvenue à San Andreas, nouvelle ère
 
@@ -40,5 +40,5 @@ Horizon RP repose sur **trois piliers** :
 Que tu rêves de devenir le **chef de la police**, un **médecin héroïque**, un **patron d'entreprise prospère** ou le **parrain le plus craint de Los Santos**, tout est possible sur Horizon.
 
 {% hint style="success" %}
-**Prêt à embarquer ?** Lis le [règlement](../reglement/general/README.md), suis le [guide de connexion](../guide/connexion.md), et viens écrire ta légende, aussi loin que porte l'horizon. 🌅
+**Prêt à embarquer ?** Lis le [règlement](../reglement/general/), suis le [guide de connexion](../guide/connexion.md), et viens écrire ta légende, aussi loin que porte l'horizon. 🌅
 {% endhint %}

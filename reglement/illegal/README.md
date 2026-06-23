@@ -4,7 +4,7 @@ description: Le règlement encadrant les activités illégales et les groupes cr
 
 # 🔫 Règlement Illégal & Groupes
 
-<figure><img src="../../.gitbook/assets/banner-reglement-illegal.png" alt="Règlement Illégal"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/banner-reglement-general.png" alt="Règlement Illégal"><figcaption></figcaption></figure>
 
 Le crime fait partie intégrante de l'univers d'Horizon RP. Mais une scène illégale crédible repose sur des **règles strictes** : sans cadre, le RP criminel devient du simple « tir au pigeon ». Lis attentivement cette section avant toute activité illégale.
 
