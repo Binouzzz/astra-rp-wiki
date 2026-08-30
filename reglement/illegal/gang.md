@@ -30,13 +30,13 @@ Un bon gang se **fait connaître par son RP** : tags, intimidation, business, al
 
 ## ⚔️ Conflits entre gangs
 
-| Règle | Détail |
-| ----- | ------ |
-| **Motif RP** | Une guerre se déclare pour une raison (insulte, vol, territoire). |
-| **Zones** | Les affrontements se font en [Zone Gunfight](../general/zone-gunfight.md). |
-| **DEFCON** | Le port d'armes suit le [DEFCON](../services-publics/defcon.md). |
-| **Membres impliqués** | Seuls les concernés RP participent. |
-| **Trêve / fin** | Une guerre peut se terminer par négociation ou domination RP. |
+| Règle                 | Détail                                                                     |
+| --------------------- | -------------------------------------------------------------------------- |
+| **Motif RP**          | Une guerre se déclare pour une raison (insulte, vol, territoire).          |
+| **Zones**             | Les affrontements se font en [Zone Gunfight](../general/zone-gunfight.md). |
+| **DEFCON**            | Le port d'armes suit le [DEFCON](../services-publics/defcon.md).           |
+| **Membres impliqués** | Seuls les concernés RP participent.                                        |
+| **Trêve / fin**       | Une guerre peut se terminer par négociation ou domination RP.              |
 
 {% hint style="warning" %}
 **Pas de guerre permanente** : un conflit doit avoir un début, un déroulé et une fin RP. Se tirer dessus 24h/24 sans histoire est interdit.
@@ -49,7 +49,7 @@ Un bon gang se **fait connaître par son RP** : tags, intimidation, business, al
 * 💊 Trafic (drogue, armes…) dans le cadre autorisé.
 * 🛡️ Racket et protection (mesurés, RP).
 * 🏴 Contrôle de territoire et points stratégiques.
-* 🤝 Alliances et rivalités avec d'autres groupes.
+* 🤝 Alliances commerciale uniquement.
 
 ***
 

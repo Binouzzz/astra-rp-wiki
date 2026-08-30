@@ -20,13 +20,13 @@ Ces règles s'appliquent à **tout joueur menant une activité illégale**, qu'i
 
 ## 2. 🔫 Conflits & affrontements
 
-| Règle | Détail |
-| ----- | ------ |
-| **Motif RP** | Aucun affrontement sans raison RP claire. |
-| **FearRP** | Sous la menace, ton perso réagit de façon réaliste. |
-| **Pas de RDM/VDM** | Tuer/écraser sans contexte est interdit. |
-| **Renforts** | Seuls les membres **réellement impliqués** RP rejoignent un conflit. |
-| **NLR** | Pas de retour sur zone après un PK. |
+| Règle              | Détail                                                               |
+| ------------------ | -------------------------------------------------------------------- |
+| **Motif RP**       | Aucun affrontement sans raison RP claire.                            |
+| **FearRP**         | Sous la menace, ton perso réagit de façon réaliste.                  |
+| **Pas de RDM/VDM** | Tuer/écraser sans contexte est interdit.                             |
+| **Renforts**       | Seuls les membres **réellement impliqués** RP rejoignent un conflit. |
+| **NLR**            | Pas de retour sur zone après un PK.                                  |
 
 {% hint style="info" %}
 Faire venir des renforts via Discord/HRP pour un conflit qu'ils n'ont pas vécu en RP est du **MetaGaming**, lourdement sanctionné.
@@ -38,7 +38,9 @@ Faire venir des renforts via Discord/HRP pour un conflit qu'ils n'ont pas vécu 
 
 * Respect **obligatoire** du niveau [DEFCON](../services-publics/defcon.md).
 * Un **effectif policier minimum** est requis selon le type de braquage.
-* Le **nombre de braqueurs** est limité selon la cible.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 * Une prise d'otage doit rester **réaliste** (FearRP de l'otage, négociation possible).
 
 {% hint style="warning" %}
@@ -50,14 +52,18 @@ Faire venir des renforts via Discord/HRP pour un conflit qu'ils n'ont pas vécu 
 ## 4. 🩸 Vol, racket & kidnapping
 
 * Le **vol d'un joueur** doit être motivé et mesuré (pas de vol total systématique).
+* Interdiction de voler une personne sans but, et sans conflit RP interne.
+* Lors du vol d'un joueur, vous ne pouvez lui prendre que 25% de ses items.
 * Un **kidnapping** se joue : demande de rançon, conditions, libération possible.
 * Interdiction de **séquestrer indéfiniment** un joueur (durée RP raisonnable).
+* 3h max de séquestration d'otages (avec but précis)
 
 ***
 
 ## 5. ⚔️ Guerres de territoire
 
-* Une guerre entre groupes doit être **déclarée et scénarisée** (motif RP).
+* Une Guerre de Territoire doit être déclarée sur le serveur illégale et surveillée par le staff qui organise ou bien organisée par les Game Masters pour récupérer un buisiness / territoire  \
+  -> Dans une zone de GDT : Les armes ne seront pas fournis par les GM / Staff vous devez tous avoir vous même. De plus, ses armes ne vous seront pas redistribuées en cas de perte.
 * Elle se déroule dans les **zones autorisées** ([Zone Gunfight](../general/zone-gunfight.md)).
 * Le staff peut **encadrer** les guerres majeures.
 
@@ -69,6 +75,9 @@ Faire venir des renforts via Discord/HRP pour un conflit qu'ils n'ont pas vécu 
 * ❌ Cibler volontairement les **nouveaux joueurs** sans RP.
 * ❌ **CombatLog** pendant un conflit.
 * ❌ Exploiter un **bug** pour prendre l'avantage.
+* ❌ Retourner à son quartier / zone safe après un acte illégal (10 minutes d'attente).
+* ❌ Faire pression / taxer un tout nouveau groupe/joueur.
+* ❌ Déconnecter une scène illégale en cours sans vous justifier auprès d'un membre du staff.
 
 {% hint style="info" %}
 En cas de litige sur un conflit illégal, **enregistre tes preuves** (clips) et ouvre un [report](../../support/faire-un-report.md). Le staff tranchera.

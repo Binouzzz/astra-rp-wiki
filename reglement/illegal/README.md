@@ -28,11 +28,11 @@ Le but de l'illégal n'est **pas de farmer des kills ou de l'argent**, mais de c
 
 ## ⚖️ Les piliers de l'illégal
 
-1. 🎭 **RP avant le frag** — chaque conflit raconte une histoire.
-2. 🚨 **Respect du DEFCON** — voir [DEFCON](../services-publics/defcon.md).
-3. 👮 **Effectif policier** — les gros coups nécessitent assez de police en ligne.
-4. 🤝 **Laisser jouer l'adversaire** — pas de PowerGaming, FearRP obligatoire des deux côtés.
-5. 🧠 **Cohérence** — un braquage se prépare, un trafic a une logique.
+1. 🎭 **Rp avant de faire feu ->** chaque conflit doit raconter une histoire à long termes.
+2. 🚨 **Respect du DEFCON,** voir [DEFCON](../services-publics/defcon.md).
+3. 👮 **Effectif policier ->** les gros coups nécessitent assez de police en ligne.
+4. 🤝 **Laisser jouer l'adversaire ->** pas de PowerGaming, FearRP obligatoire des deux côtés.
+5. 🧠 **Cohérence ->** un braquage se prépare, un trafic a une logique.
 
 {% hint style="warning" %}
 Avant de lancer une activité illégale d'envergure (braquage, guerre…), assure-toi de respecter **DEFCON + effectif requis + contexte RP**. Sinon, l'action sera annulée.
