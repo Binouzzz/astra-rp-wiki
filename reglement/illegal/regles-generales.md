@@ -78,6 +78,7 @@ Faire venir des renforts via Discord/HRP pour un conflit qu'ils n'ont pas vécu 
 * ❌ Retourner à son quartier / zone safe après un acte illégal (10 minutes d'attente).
 * ❌ Faire pression / taxer un tout nouveau groupe/joueur.
 * ❌ Déconnecter une scène illégale en cours sans vous justifier auprès d'un membre du staff.
+* ❌ Les véhicules imports sont interdit sur tout acte illégal, un seul est autorisé si vous êtes en convoi de 3 véhicules minimum.
 
 {% hint style="info" %}
 En cas de litige sur un conflit illégal, **enregistre tes preuves** (clips) et ouvre un [report](../../support/faire-un-report.md). Le staff tranchera.
