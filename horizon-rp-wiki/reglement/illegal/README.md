@@ -26,13 +26,23 @@ Le but de l'illégal n'est **pas de farmer des kills ou de l'argent**, mais de c
 
 ***
 
-## ⚖️ Les piliers de l'illégal
+### 📚 Les règles par thème
 
-1. 🎭 **Rp avant de faire feu ->** chaque conflit doit raconter une histoire à long termes.
-2. 🚨 **Respect du DEFCON,** voir [DEFCON](../services-publics/defcon.md).
-3. 👮 **Effectif policier ->** les gros coups nécessitent assez de police en ligne.
-4. 🤝 **Laisser jouer l'adversaire ->** pas de PowerGaming, FearRP obligatoire des deux côtés.
-5. 🧠 **Cohérence ->** un braquage se prépare, un trafic a une logique.
+* 🔫 [Braquages & prises d'otages](https://horizonfivem.gitbook.io/horizon/reglement/illegal/braquages-et-otages) — braquages, plans, otages, racket, rendez-vous, mort RP.
+* 🌿 [Drogues, trafics & argent](https://horizonfivem.gitbook.io/horizon/reglement/illegal/drogues-trafics-argent) — production, vente, points de trafic, transactions, arnaques.
+* 🦺 [Armes, véhicules & poursuites](https://horizonfivem.gitbook.io/horizon/reglement/illegal/armes-vehicules-poursuites) — armes, gilets pare-balles, véhicules, poursuites, tenues.
+* 🚑 [Services publics, police & entreprises](https://horizonfivem.gitbook.io/horizon/reglement/illegal/services-publics-police-entreprises) — protection des EMS, police, gouvernement, entreprises.
+* ⚖️ [Sanctions & réclamations](https://horizonfivem.gitbook.io/horizon/reglement/illegal/sanctions-et-reclamations) — sanctions individuelles et de groupe, procédure.
+
+***
+
+### ⚖️ Les piliers de l'illégal
+
+1. 🎭 **RP avant de faire feu →** chaque conflit doit raconter une histoire sur le long terme.
+2. 🚨 **Respect du DEFCON →** voir [DEFCON](../services-publics/defcon.md).
+3. 👮 **Effectif policier →** les gros coups nécessitent assez de police en ligne.
+4. 🤝 **Laisser jouer l'adversaire →** pas de PowerGaming, FearRP obligatoire des deux côtés.
+5. 🧠 **Cohérence →** un braquage se prépare, un trafic a une logique.
 
 {% hint style="warning" %}
 Avant de lancer une activité illégale d'envergure (braquage, guerre…), assure-toi de respecter **DEFCON + effectif requis + contexte RP**. Sinon, l'action sera annulée.

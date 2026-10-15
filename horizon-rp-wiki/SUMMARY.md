@@ -34,6 +34,11 @@
   * [💀 Gang](reglement/illegal/gang.md)
   * [🏍️ Club Motard (MC)](reglement/illegal/club-motard.md)
   * [🎭 Indépendant](reglement/illegal/independant.md)
+  * [💰 Braquages & prises d'otages](reglement/illegal/braquages-et-otages.md)
+  * [🌿 Drogues, trafics & argent](reglement/illegal/drogues-trafics-argent.md)
+  * [🦺 Armes, véhicules & poursuites](reglement/illegal/armes-vehicules-poursuites.md)
+  * [🚑 Services publics, police & entreprises](reglement/illegal/services-publics-police-entreprises.md)
+  * [⚖️ Sanctions & réclamations](reglement/illegal/sanctions-et-reclamations.md)
 
 ## 🛒 Boutique
 

@@ -24,12 +24,12 @@ L'indépendant est parfait pour **débuter dans l'illégal** ou pour jouer un pe
 
 ## 📏 Règles spécifiques
 
-| Règle | Détail |
-| ----- | ------ |
-| **Effectif limité** | Un groupe d'indépendants reste **petit** (généralement 3-4 max). |
-| **Pas de territoire** | Les indépendants ne revendiquent **pas** de zone. |
-| **Pas de guerre de groupe** | Ils ne déclarent pas de guerre type gang/MC. |
-| **Coups mesurés** | Activités à l'échelle « petite frappe », pas de méga-braquage organisé en boucle. |
+| Règle                       | Détail                                                                            |
+| --------------------------- | --------------------------------------------------------------------------------- |
+| **Effectif limité**         | Un groupe d'indépendants reste **petit** (généralement 3-4 max).                  |
+| **Pas de territoire**       | Les indépendants ne revendiquent **pas** de zone.                                 |
+| **Pas de guerre de groupe** | Ils ne déclarent pas de guerre type gang/MC.                                      |
+| **Coups mesurés**           | Activités à l'échelle « petite frappe », pas de méga-braquage organisé en boucle. |
 
 {% hint style="warning" %}
 Un groupe d'indépendants qui grossit et veut **territoire, guerre et gros business** doit **officialiser** un groupe via la [création de groupe](creation-de-groupe.md).
@@ -42,7 +42,7 @@ Un groupe d'indépendants qui grossit et veut **territoire, guerre et gros busin
 * 🔫 Petits braquages (commerces) selon le [DEFCON](../services-publics/defcon.md).
 * 💊 Deal et trafic à petite échelle.
 * 🚗 Vols de véhicules, cambriolages mesurés.
-* 🤝 Collaborations ponctuelles avec d'autres joueurs.
+* 🤝 Collaborations ponctuelles avec d'autres joueurs, sans alliance ni dépassement des limites de participants.
 
 ***
 

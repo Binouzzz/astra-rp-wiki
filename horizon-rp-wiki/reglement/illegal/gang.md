@@ -49,13 +49,13 @@ Un bon gang se **fait connaître par son RP** : tags, intimidation, business, al
 * 💊 Trafic (drogue, armes…) dans le cadre autorisé.
 * 🛡️ Racket et protection (mesurés, RP).
 * 🏴 Contrôle de territoire et points stratégiques.
-* 🤝 Alliances commerciale uniquement.
+* 🤝 Alliances commerciales uniquement (toute autre alliance entre groupes est interdite).
 
 ***
 
 ## 🚫 Interdictions spécifiques
 
-* ❌ Cibler les **services publics** sans motif RP réel.
+* ❌ Cibler les **services publics** en dehors des cas autorisés : les EMS en service et les membres du gouvernement sont intouchables (voir la page Services publics, police & entreprises).
 * ❌ Recrutement de masse pour dominer par le nombre.
 * ❌ Guerre sans déclaration ni scénario.
 * ❌ Loot total systématique des victimes.

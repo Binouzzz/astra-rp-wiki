@@ -17,8 +17,8 @@ Ton dossier de création doit présenter un **concept solide et original** :
 * 🏷️ **Nom** du groupe et son **type** (gang, MC, organisation).
 * 📖 **Background RP** : histoire, origines, valeurs, objectifs.
 * 🎯 **Spécialité** : trafic, protection, courses, business…
-* 🗺️ **Zone d'influence** souhaitée.
-* 👥 **Membres fondateurs** (liste réaliste, pas 20 personnes d'un coup).
+* 🗺️ **Zone d'influence** souhaitée et éventuelles revendications territoriales.
+* 👥 **Membres fondateurs** (liste réaliste, pas 20 personnes d'un coup), avec les responsables et la hiérarchie du groupe.
 * 🎨 **Identité visuelle** (couleurs, tenue, logo si possible).
 
 {% hint style="info" %}
@@ -50,12 +50,12 @@ Un groupe **inactif**, qui ne respecte pas le règlement ou qui ne fait que du �
 
 ## 📏 Règles de création
 
-| Règle | Détail |
-| ----- | ------ |
-| **Effectif de départ** | Limité (pas de méga-groupe instantané). |
+| Règle                   | Détail                                                 |
+| ----------------------- | ------------------------------------------------------ |
+| **Effectif de départ**  | Limité (pas de méga-groupe instantané).                |
 | **Un groupe à la fois** | Un joueur ne peut être fondateur que d'un seul groupe. |
-| **Pas de doublon** | Concept/nom déjà pris = refus. |
-| **Cohérence** | Le RP doit correspondre au dossier validé. |
+| **Pas de doublon**      | Concept/nom déjà pris = refus.                         |
+| **Cohérence**           | Le RP doit correspondre au dossier validé.             |
 
 ***
 
