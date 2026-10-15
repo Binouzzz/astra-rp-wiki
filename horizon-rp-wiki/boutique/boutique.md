@@ -1,5 +1,7 @@
 ---
-description: La boutique officielle d'Horizon RP — soutiens le serveur et profite d'avantages.
+description: >-
+  La boutique officielle d'Horizon RP — soutiens le serveur et profite
+  d'avantages.
 ---
 
 # 🛍️ La Boutique
@@ -35,7 +37,7 @@ Tout achat est un **coup de pouce direct** au serveur. Sans la communauté, Hori
 
 ## 🔗 Accéder à la boutique
 
-> 🛒 **Boutique officielle** : [tebex.io/horizonrp](https://tebex.io/horizonrp)
+> 🛒 **Boutique officielle** : [horizonrp-fa.tebex.io](https://horizonrp-fa.tebex.io/)
 >
 > Le lien exact est épinglé sur le **Discord** dans le salon **#boutique**.
 

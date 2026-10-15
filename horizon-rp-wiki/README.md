@@ -71,7 +71,7 @@ Tu débarques sur le serveur ? Voici par où commencer :
 Rejoins-nous et reste informé des dernières nouveautés !
 
 * **Discord** : [discord.gg/horizonrp](https://discord.gg/horizonrp)
-* **Boutique** : [tebex.io/horizonrp](https://tebex.io/horizonrp)
+* **Boutique** : [horizonrp-fa.tebex.io](https://horizonrp-fa.tebex.io/)
 * **Connexion FiveM** : recherche **Horizon RP** dans ta liste de serveurs.
 {% endhint %}
 

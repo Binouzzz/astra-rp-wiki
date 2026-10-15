@@ -12,7 +12,7 @@ Acheter sur la boutique d'Horizon RP est **simple, rapide et sécurisé**. Suis 
 
 ## 🛒 Étape par étape
 
-1. **Accède à la boutique** via le lien officiel [tebex.io/horizonrp](https://tebex.io/horizonrp) (épinglé sur le Discord).
+1. **Accède à la boutique** via le lien officiel [horizonrp-fa.tebex.io](https://horizonrp-fa.tebex.io/) (épinglé sur le Discord).
 2. **Connecte-toi** en renseignant ton **identifiant de jeu** (ton pseudo FiveM / ID demandé).
 3. **Choisis ton article** : grade VIP, pack ou objet.
 4. **Ajoute au panier** puis va au paiement.
