@@ -1,0 +1,44 @@
+---
+description: L'histoire et l'univers du serveur Horizon RP.
+---
+
+# 🌅 Le Lore d'Horizon
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-06-23 143652.jpg" alt="Lore Horizon"><figcaption></figcaption></figure>
+
+## Bienvenue à San Andreas, nouvelle ère
+
+**Horizon RP** est un serveur **GTA V RP** sérieux et immersif, pensé pour offrir un Roleplay riche, crédible et accessible à tous. Ici, ton personnage n'est pas un simple avatar : c'est une **vie entière** que tu écris au fil de tes choix, de tes rencontres et de tes ambitions.
+
+{% hint style="info" %}
+**Horizon**, c'est la ligne où la terre rencontre le ciel : le symbole des **nouveaux départs** et de l'**infini des possibles**. Notre vision : te donner un terrain de jeu où **chaque joueur peut tracer sa route**, qu'il soit citoyen, policier, médecin, entrepreneur ou hors-la-loi.
+{% endhint %}
+
+***
+
+## 🌆 L'univers
+
+San Andreas est une terre de contrastes. Entre les gratte-ciels de Los Santos, les quartiers populaires, les zones rurales de Blaine County et les plages de Vespucci, **mille histoires se croisent chaque jour**.
+
+* 🏙️ **Une ville vivante** — économie dynamique, entreprises gérées par les joueurs, marché légal et illégal.
+* 👔 **Des institutions solides** — Police (SASP), Secours (SAMS), Justice, Gouvernement.
+* 💀 **Une scène criminelle structurée** — gangs, clubs de motards, organisations et indépendants.
+* 🤝 **Une communauté** — bienveillante, mature et passionnée de Roleplay.
+
+***
+
+## 🎯 Notre philosophie
+
+Horizon RP repose sur **trois piliers** :
+
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>🎭 Immersion</strong></td><td>Le Roleplay prime sur tout. On joue un personnage, pas un score.</td></tr><tr><td><strong>⚖️ Équité</strong></td><td>Les mêmes règles pour tous. Le staff veille à un jeu sain.</td></tr><tr><td><strong>🌟 Qualité</strong></td><td>Scénarios construits, respect mutuel et histoires mémorables.</td></tr></tbody></table>
+
+***
+
+## 📜 Ton histoire commence ici
+
+Que tu rêves de devenir le **chef de la police**, un **médecin héroïque**, un **patron d'entreprise prospère** ou le **parrain le plus craint de Los Santos**, tout est possible sur Horizon.
+
+{% hint style="success" %}
+**Prêt à embarquer ?** Lis le [règlement](../reglement/general/), suis le [guide de connexion](../guide-du-joueur/connexion.md), et viens écrire ta légende, aussi loin que porte l'horizon. 🌅
+{% endhint %}
